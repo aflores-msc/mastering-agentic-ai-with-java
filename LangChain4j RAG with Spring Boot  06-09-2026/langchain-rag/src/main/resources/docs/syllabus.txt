@@ -1,0 +1,22 @@
+Telusko AI Course - Syllabus Overview
+
+Part 1: Foundations
+AI and machine learning basics, embeddings, tokenization, and how large language models work.
+
+Part 2: Spring AI
+ChatModel and ChatClient, chat memory, tool calling, structured output, and Retrieval
+Augmented Generation with vector databases such as PGVector and Redis.
+
+Part 3: LangChain4j
+The low-level ChatModel API, AI Services in Spring Boot, streaming, structured output,
+tool calling, guardrails, and the Model Context Protocol (MCP).
+
+Part 4: Agentic AI
+Multi-agent workflows (sequential, loop, parallel, conditional), supervisor agents that
+plan on their own, agents that use real tools, and Retrieval Augmented Generation with
+LangChain4j.
+
+Capstone project
+Students build one complete AI powered application of their own choosing and submit it for
+review. The three strongest projects receive a free Telusko live course of the author's
+choice.

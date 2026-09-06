@@ -1,0 +1,26 @@
+Telusko AI Course - Frequently Asked Questions
+
+Course length and schedule
+The "Mastering Agentic AI with Java" course runs for 12 weeks. Live sessions are held on
+Saturdays and Sundays, and every session is recorded so you can watch it later.
+
+Technology stack
+The course is taught entirely in Java. We use Java 17, Spring Boot, Spring AI, and
+LangChain4j. No Python is required.
+
+Refund policy
+You can request a full refund within 7 days of purchase if you are not satisfied. After
+7 days, refunds are not available. To request a refund, email the support team from your
+registered email address.
+
+Certificate
+A certificate of completion is issued once you finish the course and submit the final
+capstone project.
+
+Prerequisites
+You should be comfortable with core Java and basic Spring Boot. Prior AI or machine
+learning experience is not required; the course starts from the fundamentals.
+
+Support
+Doubts can be asked in the community Discord channel. Instructors and fellow students
+answer questions there throughout the week.
