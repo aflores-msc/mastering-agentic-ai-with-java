@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.telusko.airline.ContextLoadsTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.04 s -- in com.telusko.airline.ContextLoadsTest

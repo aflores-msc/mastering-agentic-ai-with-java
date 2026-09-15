@@ -1,0 +1,5 @@
+# Created at 2026-09-08T16:23:42.141
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Agentic AI Recordings\airline-ai-project\airline-backend\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
